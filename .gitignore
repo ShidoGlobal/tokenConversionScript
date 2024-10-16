@@ -1,0 +1,4 @@
+.env
+generate-protoc.sh
+node_modules/
+package-lock.json
